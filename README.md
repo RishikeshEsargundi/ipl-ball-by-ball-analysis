@@ -30,3 +30,7 @@ ipl-ball-by-ball-analysis/
 ├── notebooks/
 ├── requirements.txt
 └── README.md
+## How to Run
+1. Clone the repository
+2. Install dependencies
+3. Run the notebook end-to-end

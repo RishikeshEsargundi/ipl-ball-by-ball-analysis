@@ -34,3 +34,5 @@ ipl-ball-by-ball-analysis/
 1. Clone the repository
 2. Install dependencies
 3. Run the notebook end-to-end
+
+Data files are not uploaded due to size constraints.

@@ -38,7 +38,8 @@ ipl-ball-by-ball-analysis/
 
 ## Setup
 Run this to install libraries & dependencies.
-pip install -r requirements.txt
+-pip install -r requirements.txt
 
 Data files are not uploaded due to size constraints.
+
 

@@ -41,7 +41,8 @@ Run this to install libraries & dependencies.
 
 pip install -r requirements.txt
 
-Data files are not uploaded due to size constraints.
+Datasets used for this project are not uploaded due to size constraints.
+
 
 
 
